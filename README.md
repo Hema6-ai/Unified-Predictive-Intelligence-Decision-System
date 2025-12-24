@@ -150,23 +150,8 @@ Threshold selection directly affects financial outcomes
 
 Explainability enables trust, adoption, and governance
 
-                             12. Project Status
 
-Business framing: Complete
-
-Data pipeline: Complete
-
-Modeling and tuning: Complete
-
-Threshold optimization: Complete
-
-Decision system: Complete
-
-Explainability: Complete
-
-Production readiness: Demonstrated
-
-                                13. Technology Stack
+                                12. Technology Stack
 
 Python
 
@@ -180,7 +165,7 @@ SHAP
 
 Matplotlib
 
-                             14. Real-World Applications
+                             13. Real-World Applications
 
 Credit risk decisioning
 
