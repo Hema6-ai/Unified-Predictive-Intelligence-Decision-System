@@ -188,7 +188,7 @@ Fraud detection and intervention
 
 Customer risk segmentation
 
-Policy-driven machine learning systems1. Project Overview
+Policy-driven machine learning systems
 
 This project demonstrates how machine learning should be built, evaluated, and deployed when decisions, accountability, and real business impact matter.
 
